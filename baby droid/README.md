@@ -65,6 +65,10 @@ Sử dụng https://regex101.com/ để check ta được flag:
 
 ![image](https://user-images.githubusercontent.com/80806913/168526198-a545d703-a653-45a6-91c2-0cd7afdf5a13.png)
 
+
+![image](https://user-images.githubusercontent.com/80806913/168526344-ad98beed-9640-42c9-ba97-1a0e8049e4af.png)
+
+
 **HCMUS-CTF{ThIs_iS_A_ReAlLy_bAsIc_rEv}**
 
 
