@@ -35,7 +35,7 @@ Sử dụng jadx để reverse file, trong source code của file có thư mục
 
 **flag.charAt(19) == '_' &&**
 
-**flag.length() == 37 && **
+**flag.length() == 37 &&**
 
 **flag.toLowerCase().substring(10).startsWith("this_is_") &&**
 
