@@ -33,7 +33,7 @@ Sử dụng jadx để reverse file, trong source code của file có thư mục
 
 Đơn giản hóa điều kiện sử dụng các class khác như MagicNum, Helper ta được: 
 
-**flag.startsWith("HCMUS-CTF{") && **
+**flag.startsWith("HCMUS-CTF{") &&**
 **flag.charAt(19) == '_' && **
 **flag.length() == 37 && **
 **flag.toLowerCase().substring(10).startsWith("this_is_") && **
