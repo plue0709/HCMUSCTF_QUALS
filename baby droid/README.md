@@ -33,17 +33,17 @@ Sử dụng jadx để reverse file, trong source code của file có thư mục
 
 Đơn giản hóa điều kiện sử dụng các class khác như MagicNum, Helper ta được: 
 
-**flag.startsWith("HCMUS-CTF{") && 
-flag.charAt(19) == '_' && 
-flag.length() == 37 && 
-flag.toLowerCase().substring(10).startsWith("this_is_") && 
-flag.charAt(((int) (26) == flag.charAt(((int) (19) && 
-new StringBuilder(flag).reverse().toString().toLowerCase().substring(1).startsWith(ctx.getString(R.string.last_part)) && 
-new StringBuilder(flag).reverse().toString().charAt(0) == '}' && 
-Helper.ran(flag.toUpperCase().substring(20, 26)).equals("ERNYYL") && 
-flag.toLowerCase().charAt(18) == 'a' && 
-flag.charAt(18) == flag.charAt(28) && 
-flag.toUpperCase().charAt(27) == flag.toUpperCase().charAt(28) + 1)**
+**flag.startsWith("HCMUS-CTF{") && **
+**flag.charAt(19) == '_' && **
+**flag.length() == 37 && **
+**flag.toLowerCase().substring(10).startsWith("this_is_") && **
+**flag.charAt(((int) (26) == flag.charAt(((int) (19) && **
+**new StringBuilder(flag).reverse().toString().toLowerCase().substring(1).startsWith(ctx.getString(R.string.last_part)) && **
+**new StringBuilder(flag).reverse().toString().charAt(0) == '}' && **
+**Helper.ran(flag.toUpperCase().substring(20, 26)).equals("ERNYYL") && **
+**flag.toLowerCase().charAt(18) == 'a' && **
+**flag.charAt(18) == flag.charAt(28) && **
+**flag.toUpperCase().charAt(27) == flag.toUpperCase().charAt(28) + 1)**
 
 Nhìn qua một lần các điều kiện trên, ta có được chiều dài flag là 37 và một phần của flag là: **HCMUS-CTF{this_is_a_really**
 
