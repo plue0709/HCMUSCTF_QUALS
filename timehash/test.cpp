@@ -10,7 +10,7 @@ unsigned short int & LOWORD(unsigned int & x) {
 }
 unsigned int hash(unsigned a1)
 {
-	unsigned int v2; // [rsp+10h] [rbp-4h]
+  unsigned int v2; // [rsp+10h] [rbp-4h]
   unsigned int v3; // [rsp+10h] [rbp-4h]
   unsigned int v4; // [rsp+10h] [rbp-4h]
   unsigned int v5; // [rsp+10h] [rbp-4h]
@@ -23,8 +23,8 @@ unsigned int hash(unsigned a1)
 }
 
 int main() {
-	unsigned int a1 =573785173;
-	unsigned int v2; // [rsp+10h] [rbp-4h]
+  unsigned int a1 =573785173;
+  unsigned int v2; // [rsp+10h] [rbp-4h]
   unsigned int v3; // [rsp+10h] [rbp-4h]
   unsigned int v4; // [rsp+10h] [rbp-4h]
   unsigned int v5;
