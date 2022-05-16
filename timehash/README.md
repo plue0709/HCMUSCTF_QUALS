@@ -2,7 +2,7 @@
 
 ![image](https://user-images.githubusercontent.com/80806913/168526970-9871ace5-bcb7-483d-b75d-4bc0129a5536.png)
 
-Hiểu đơn giản Khi chạy chương trình v4 được gán** v4 = 573785173** và nếu **v4 > 268435456** thì **v4 = SeriousHash(v4)**
+Hiểu đơn giản Khi chạy chương trình v4 được gán **v4 = 573785173** và nếu **v4 > 268435456** thì **v4 = SeriousHash(v4)**
 
 Xem hàm **SeriousHash()** có gì
 
